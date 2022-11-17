@@ -19,6 +19,7 @@ fun main() {
     //mengahapus item pada index ke-4
     any.removeAt(4)
 
+
     for(data in any){
         print("$data, ")
     }
